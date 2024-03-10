@@ -11,10 +11,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rihid/simple-string-utils.git"
+    "url": "git+https://github.com/rihid/simple-string-utilities.git"
   },
   "bugs": {
-    "url": "https://github.com/rihid/simple-string-utils/issues"
+    "url": "https://github.com/rihid/simple-string-utilities.git/issues"
   },
-  "homepage": "https://github.com/rihid/simple-string-utils#readme"
+  "homepage": "https://github.com/rihid/simple-string-utilities.git#readme"
 }
