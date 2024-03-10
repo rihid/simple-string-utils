@@ -1,5 +1,5 @@
 {
-  "name": "simple-string-utils",
+  "name": "simple-string-utilities",
   "version": "1.0.0",
   "description": "An npm package that provides utility functions for manipulating strings.",
   "main": "index.js",
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Rizal Hidayat",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rihid/simple-string-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rihid/simple-string-utils/issues"
+  },
+  "homepage": "https://github.com/rihid/simple-string-utils#readme"
 }
