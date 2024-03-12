@@ -1,6 +1,6 @@
 # Simple String Utilities
 
-String Utilities is an npm package that provides utility functions for string manipulation. This package offers several functions such as lowercase, uppercase, capitalize, and countCharacters. Additionally, it includes a feature to format dates using the date-fns library.
+Simple String Utilities is an npm package that provides utility functions for string manipulation. This package offers several functions such as lowercase, uppercase, capitalize, and countCharacters. Additionally, it includes a feature to format dates using the date-fns library.
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm install simple-string-utilities
 ## Usage
 
 ```javascript
-const { lowercase, uppercase, capitalize, formatDate, countCharacters } = require('string-utilities');
+const { lowercase, uppercase, capitalize, formatDate, countCharacters } = require('simple-string-utilities');
 
 let text = 'hello, world!';
 let date = new Date();
