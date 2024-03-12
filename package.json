@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rihid/simple-string-utilities.git/issues"
   },
-  "homepage": "https://github.com/rihid/simple-string-utilities.git#readme"
+  "homepage": "https://github.com/rihid/simple-string-utilities.git#readme",
+  "dependencies": {
+    "date-fns": "^3.4.0",
+    "lodash": "^4.17.21"
+  }
 }
