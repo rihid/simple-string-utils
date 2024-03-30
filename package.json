@@ -20,6 +20,7 @@
   "dependencies": {
     "date-fns": "^3.4.0",
     "lodash": "^4.17.21",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "vuecel-ui": "^0.0.1"
   }
 }
